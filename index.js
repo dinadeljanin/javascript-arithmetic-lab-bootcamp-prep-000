@@ -18,6 +18,6 @@ function increment(n) {
   return ++n;
 }
 
-function decrement() {
+function decrement(n) {
   return --n;
 }
